@@ -1,0 +1,6 @@
+name: "AnimeBot"
+author: "Xiue"
+version: "0.1.0"
+main: "xiue.plugin.PluginMain"
+info: "一个动漫Bot，可以进行推送动漫、动漫查询、今日更新查看等功能。"
+depends: []
