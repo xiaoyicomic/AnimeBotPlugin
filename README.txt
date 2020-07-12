@@ -1,1 +1,2 @@
-һ������mirai-console��QQ�����˲�������������������ǹ��ڶ����á�
+一个基于mirai-console的QQ机器人插件，正如其名，功能是关于动漫的。
+(时间原因，暂且停止更新)
